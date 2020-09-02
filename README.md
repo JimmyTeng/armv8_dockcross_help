@@ -1,5 +1,5 @@
 # dockcross 交叉编译 docker 安装使用说明
-## 1.安装镜像 
+## 1.安装原始镜像 
 
 ```shell script
 # 安装docker
@@ -26,3 +26,6 @@ sudo systemctl restart docker
 docker pull dockcross/linux-arm64
 
 ```
+## 2.建立工具链镜像
+
+## 3.编译程序
