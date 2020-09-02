@@ -26,6 +26,7 @@ sudo systemctl restart docker
 docker pull dockcross/linux-arm64
 
 ```
-## 2.建立工具链镜像
 
-## 3.编译程序
+## 2.编译程序
+可以参考
+https://github.com/dockcross/dockcross
